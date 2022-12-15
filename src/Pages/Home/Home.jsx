@@ -7,7 +7,7 @@ const Home = () => {
       <div className='bg-black overlay'></div>
       <p className='intro text-white z-10 flex'> Hi! I'm Chynwe, and I'm a Software Developer 
       </p> 
-      <button>Contact me!</button>
+      
       {/* <button>Contact me!</button> */}
     </div>
   )
