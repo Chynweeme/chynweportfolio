@@ -12,7 +12,7 @@ const Navbar = () => {
         <li><a href="#">Projects</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
-      <div className="hamburger block lg:hidden text-white">Ham</div>
+      <div className="hamburger block lg:hidden text-white underline">Menu</div>
       <div className="sidepanel block lg:hidden w-1/2 flex">
         <div className='hidden'>
           <ul className='py-3 px-10 border'><a href="#">Home</a></ul>

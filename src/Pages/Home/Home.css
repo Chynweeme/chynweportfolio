@@ -29,6 +29,18 @@ body{
     top: -100%;
 }
 
+.homebutton{
+    font-size: 24px;
+    font-family: cursive;
+    color: white;
+    width: 400px;
+    text-align: center;
+    margin-left: 50%;
+    padding-top: 15%;
+    position: relative;
+    top: -120%;
+}
+
 button{
     height: fit-content;
     width: fit-content;
@@ -43,4 +55,11 @@ button{
     width: 70%;
     padding-top: 28%;
    } 
+
+   .homebutton{
+    top: -105%;
+    margin-left: -10%;
+    font-size: 24px;
+    font-family: cursive;
+   }
 }

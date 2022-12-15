@@ -8,7 +8,8 @@ const Home = () => {
       <p className='intro text-white z-10 flex'> Hi! I'm Chynwe, and I'm a Software Developer 
       </p> 
       
-      {/* <button>Contact me!</button> */}
+      <p className='homebutton'>Keep scrolling!!</p>
+    
     </div>
   )
 }
