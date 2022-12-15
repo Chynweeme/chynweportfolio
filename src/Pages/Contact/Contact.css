@@ -1,0 +1,22 @@
+.contact-heading{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.right-details{
+    box-shadow: 2px;
+    width: 60%;
+    height: fit-content
+}
+
+
+@media only screen and (max-width: 768px)  {
+    .left-side{
+        display: none;
+    }
+
+    .right-details{
+        width: 90vw;
+        margin-left: 10%;
+    }
+}

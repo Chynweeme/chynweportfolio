@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: brown; */
+    
+}
+
+.home{
+    background-image: url(https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:89.2vh;
+}
+
+.overlay{
+    position: relative;
+    width: 100vw;
+    height: 89.2vh;
+    opacity: 70%;
+}
+
+.intro{
+    font-size: 40px;
+    width: 400px;
+    text-align: center;
+    margin-left: 50%;
+    padding-top: 15%;
+    position: relative;
+    top: -100%;
+}
+
+button{
+    height: fit-content;
+    width: fit-content;
+    color: white;
+    z-index: 10;
+}
+
+/*mobile version*/
+@media only screen and (max-width: 768px)  {
+   .intro{
+    margin: auto;
+    width: 70%;
+    padding-top: 28%;
+   } 
+}

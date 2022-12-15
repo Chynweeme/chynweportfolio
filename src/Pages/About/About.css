@@ -1,0 +1,33 @@
+.about-heading{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.about-writeup{
+    width: 50%;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.about-subheading{
+    display: flex;
+}
+
+
+/* Phone version */
+@media only screen and (max-width: 768px)  {
+.image{
+    display: none;
+}
+
+.about-subheading{
+    display: grid;
+}
+
+.about-writeup{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+}
