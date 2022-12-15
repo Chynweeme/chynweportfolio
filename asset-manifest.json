@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chynweportfolio/static/css/main.5961cec6.css",
+    "main.js": "/chynweportfolio/static/js/main.4dcc3117.js",
+    "index.html": "/chynweportfolio/index.html",
+    "main.5961cec6.css.map": "/chynweportfolio/static/css/main.5961cec6.css.map",
+    "main.4dcc3117.js.map": "/chynweportfolio/static/js/main.4dcc3117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5961cec6.css",
+    "static/js/main.4dcc3117.js"
+  ]
+}
